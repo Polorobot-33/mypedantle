@@ -1,0 +1,15 @@
+{
+  "name": "mypedantle",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.2.8",
+    "drizzle-kit": "^0.30.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.41.0"
+  }
+}
